@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=UniX-AI-Lab&fontSize=72&fontColor=ffffff&color=0:0f172a,50:1e3a5f,100:0f172a&stroke=63b3ed&strokeWidth=2&animation=fadeIn&desc=Frontier%20AI%20Research%20%C2%B7%20Open%20%26%20Non-Profit&descAlignY=75&descSize=16&descColor=94a3b8"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=UniX-AI-Lab&fontSize=72&fontColor=ffffff&color=0:0f172a,50:1e3a5f,100:0f172a&stroke=63b3ed&strokeWidth=2&animation=fadeIn&desc=Frontier%20AI%20Research%20%C2%B7%20Open%20%26%20Non-Profit&descAlignY=75&descSize=16&descColor=94a3b8" alt="UniX-AI-Lab"/>
-</picture>
+![UniX-AI-Lab](https://raw.githubusercontent.com/UniX-AI-Lab/.github/main/unix-lab-1.png)
 
 <br/>
 
