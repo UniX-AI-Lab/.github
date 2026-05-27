@@ -91,17 +91,40 @@ Building AI systems that *plan, act, and reason* — not just respond. From tool
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 [UniX-AI-Scientist](https://github.com/UniX-AI-Lab/UniX-AI-Scientist)
-**Autonomous AI research assistant** built on OpenClaw. Give it a topic — it surveys 50+ papers, synthesizes the frontier, generates novel hypotheses, and writes a publishable paper. Fully open-source.
+### 🌍 [WorldReasonBench](https://github.com/UniX-AI-Lab/WorldReasonBench)
+**Human-aligned stress testing of video generators as future world-state predictors.** Reframes video generation evaluation as *world-state prediction*: given an initial state and an action, can a model generate a future video whose evolution remains physically, socially, logically, and informationally consistent?
 
-`LLM Agents` `ArXiv` `Research Automation` `OpenAI-compatible`
+> 🎬 **436** curated cases · **4** reasoning dimensions · **22** subcategories
+> 🤖 **11** closed/open-source generators benchmarked head-to-head
+> 🧑‍⚖️ **WorldRewardBench**: ~6K expert preference pairs over 1.4K videos
+> 📈 Score<sub>PR</sub> ↔ human ρ = **0.955**
 
-[![Stars](https://img.shields.io/github/stars/UniX-AI-Lab/UniX-AI-Scientist?style=flat-square&color=f6ad55)](https://github.com/UniX-AI-Lab/UniX-AI-Scientist)
-[![License](https://img.shields.io/badge/license-MIT-68d391?style=flat-square)](https://github.com/UniX-AI-Lab/UniX-AI-Scientist/blob/main/LICENSE)
-&nbsp; **[🌐 Project Page](https://unix-ai-lab.github.io/UniX-AI-Scientist/)**
+`Video Generation` `World Model` `Benchmark` `Reward Model`
+
+[![Stars](https://img.shields.io/github/stars/UniX-AI-Lab/WorldReasonBench?style=flat-square&color=f6ad55)](https://github.com/UniX-AI-Lab/WorldReasonBench)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.10434-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.10434)
+[![HF Paper](https://img.shields.io/badge/🤗-Daily%20Paper-FFD21E?style=flat-square)](https://huggingface.co/papers/2605.10434)
+[![Dataset](https://img.shields.io/badge/🤗-Dataset-0040A1?style=flat-square)](https://huggingface.co/datasets/WorldReasonBench)
+&nbsp; **[🌐 Project Page](https://unix-ai-lab.github.io/WorldReasonBench/)**
 
 </td>
 <td width="50%" valign="top">
+
+### 🔮 More Coming Soon
+We are actively developing projects across all three research pillars.
+
+**In the pipeline:**
+- Unified vision-language generation framework
+- Instruction-driven video editing toolkit
+- Multi-agent scientific reasoning benchmark
+- Autonomous AI research assistant
+
+*Watch this space — or better yet, [join us](#-join-us).*
+
+</td>
+</tr>
+</table>
+
 
 ### 🔮 More Coming Soon
 We are actively developing projects across all three research pillars.
